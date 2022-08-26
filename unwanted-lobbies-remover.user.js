@@ -7,8 +7,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=geoguessr.com
 // @grant        none
 // @license      MIT
-// @downloadURL  none
-// @updateURL    none
+// @downloadURL  https://github.com/svob/geoguessr-scripts/raw/master/unwanted-lobbies-remover.user.js
+// @updateURL    https://github.com/svob/geoguessr-scripts/raw/master/unwanted-lobbies-remover.user.js
 // ==/UserScript==
 
 const blacklist = [
